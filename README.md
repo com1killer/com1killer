@@ -1,4 +1,4 @@
-hi! i'm Com (she/her)<br>
+hi! i'm Com (they/them)<br>
 i mainly code in JavaScript and C#, but you might find some other fun stuff around here.<br>
 i play a lot of [hackmud](https://www.hackmud.com) and i'm working on an app.<br>
 you can reach me on [twitter](https://twitter.com/com1killer) if you want to talk.<br>
